@@ -1,2 +1,0 @@
-#OpenShift-demo
-OpenShift Demo
